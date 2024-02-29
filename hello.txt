@@ -1,3 +1,0 @@
-hello python 1
-
-hello java 2
